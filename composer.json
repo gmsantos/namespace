@@ -1,0 +1,8 @@
+{
+	"require": {
+		"aws/aws-sdk-php": "2.7.*"
+	},
+	"autoload": {
+		"psr-4": { "MyApp\\": "" }
+	}
+}
